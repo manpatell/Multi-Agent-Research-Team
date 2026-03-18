@@ -4,7 +4,7 @@ A full-stack, professional AI orchestration project that demonstrates autonomous
 
 This project moves beyond simple "input-output" prompting. It uses **LangGraph** to orchestrate a team of agents (Supervisor, Researcher, Writer, Fact-Checker) in a cyclic graph workflow.
 
-![App Screenshot](./assets/demo.png) *(Add a screenshot here)*
+![App Screenshot](./assets/demo.png)
 
 ## Features
 

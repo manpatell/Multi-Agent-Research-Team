@@ -36,8 +36,8 @@ The quickest way to see the project in action is using **Demo Mode**. It simulat
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/multi-agent-research-team.git
-   cd multi-agent-research-team
+   git clone https://github.com/manpatell/Multi-Agent-Research-Team.git
+   cd Multi-Agent-Research-Team
    ```
 
 2. **Install dependencies**
